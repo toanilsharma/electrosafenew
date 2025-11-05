@@ -703,7 +703,7 @@ const DCArcFlashPage: React.FC = () => {
     </script>
 </body>
 </html>
-  `];
+  `;
   return <HtmlToolWrapper htmlContent={htmlContent} />;
 };
 
