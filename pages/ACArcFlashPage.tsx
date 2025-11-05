@@ -771,10 +771,10 @@ const ACArcFlashPage: React.FC = () => {
     </script>
 </body>
 </html>
-  `];
+  `;
   return (
     <HtmlToolWrapper htmlContent={htmlContent} />
-    );
+  );
 };
 
 export default ACArcFlashPage;
